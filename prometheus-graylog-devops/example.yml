@@ -1,0 +1,3 @@
+---
+- targets:
+  - prometheus-graylog-devops.aws.athenahealth.com
